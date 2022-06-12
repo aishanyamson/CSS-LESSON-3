@@ -81,6 +81,7 @@ body {
   .semicircle1:hover {
       animation-name: red;
       animation-duration: 10s;
+      animation-fill-mode: backwards;
   }
   
   .semicircle2 {
